@@ -1,5 +1,5 @@
 <p align=center>
-  <a href="https://darlinghq.org/">
+  <a href="https://noaidarling.hamishmb.com/">
     <img alt="Darling logo" src="https://darlinghq.org/img/darling250.png">
   </a>
 </p>
@@ -47,7 +47,7 @@ The code of Darling is licensed under [GNU GPL 3.0](https://github.com/NoAiDarli
 
 AUR: https://aur.archlinux.org/packages/noaidarling-git
 
-Official packages for some distributions are available under [releases](https://github.com/darlinghq/darling/releases).
+Official packages for some distributions are available under [releases](https://github.com/NoAiDarling/NoAiDarling/releases).
 
 ### Community Packages
 
